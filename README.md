@@ -1,7 +1,11 @@
 # AutoGFE
 Repository for the Masters Thesis AutoGFE - Automatic Feature Engineering
 
-# Code
+**If you are an examiner of this Thesis:**
+The last commit on the termination date has the hash: 'b8cca91d12c5d549b27b3214db0d6fa6cf1356aa'. I might make some later commits to clean up the code a bit and to add missing source links. 
+
+
+## Code
 This folder contains the code that belongs to this master thesis and, as such, is quite extensive. Therefore this markdown file is meant to be a general outline of what is where, how it is structured and how you can run it.
 
 ## General
