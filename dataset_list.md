@@ -29,24 +29,24 @@ Repositories:
 | fourclass | LIBSVM | https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#splice | 
 | madelon | LIBSVM | https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#splice | 
 | splice | LIBSVM | https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#splice | 
-| higgs boson | UCI | https://archive.ics.uci.edu/ml/datasets/HIGGS | 
+| higgs_boson | UCI | https://archive.ics.uci.edu/ml/datasets/HIGGS | 
 | accelerometer | | | 
-| australian | LIBSVM |https://archive.ics.uci.edu/ml/datasets/HIGGS | 
+| australian | LIBSVM | https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#splice | 
 | balance_scale | UCI| | 
 | baloons |UCI | | 
 | blood_transfusions | UCI| | 
-| campus_recruit | kaggle| | 
-| churn_modelling |kaggle | | 
+| campus_recruit | kaggle| https://www.kaggle.com/benroshan/factors-affecting-campus-placement | 
+| churn_modelling |kaggle |https://www.kaggle.com/shubh0799/churn-modelling | 
 | credit_approval | kaggle| | 
-| default_credit | kaggle| | 
-| diabetes | LIBSVM| https://archive.ics.uci.edu/ml/datasets/HIGGS| 
+| default_credit | kaggle|https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset | 
+| diabetes | LIBSVM|https://archive.ics.uci.edu/ml/datasets/diabetes | 
 | ecoli | UCI | | 
 | fertility | LIBSVM |https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/ | 
 | fourclass | | | 
 | ges_classification | | | 
-| glass | | | 
-| ionosphere | UCI | | 
-| iris | sklearn | | 
+| glass           | LIBSVM | https://archive.ics.uci.edu/ml/datasets/Arcene | 
+| ionosphere      | UCI    |  | 
+| iris | sklearn  |  -     | 
 | liver_disorders | | | 
 | lymphography | | | 
 | madelon | | | 
@@ -63,3 +63,14 @@ Repositories:
 | svmguide1 | LIBSVM | https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/ | 
 | svmguide3 | LIBSVM | https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/ | 
 | world_happiness |kaggle | kaggle.com| 
+| ovar_cancer | UCI | https://archive.ics.uci.edu/ml/datasets/Arcene | 
+| amazon_employee | kaggle | https://www.kaggle.com/c/amazon-employee-access-challenge/data | 
+| bike_sharing | kaggle | https://www.kaggle.com/c/bike-sharing-demand/data | 
+| hepatitis | UCI | https://archive.ics.uci.edu/ml/datasets/hepatitis | 
+| labor_relations | UCI | https://archive.ics.uci.edu/ml/datasets/Labor+Relations | 
+| secom | UCI | https://archive.ics.uci.edu/ml/datasets/SECOM | 
+| diabetes_II | UCI | https://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set | 
+| wine | UCI | https://archive.ics.uci.edu/ml/datasets/wine+quality | 
+| education_india | kaggle | https://www.kaggle.com/rajanand/education-in-india?select=2015_16_Statewise_Elementary_Metadata.csv |
+| versatile_production | kaggle | https://www.kaggle.com/inIT-OWL/versatileproductionsystem | 
+| mouse_protein | kaggle | https://www.kaggle.com/ruslankl/mice-protein-expression | 
